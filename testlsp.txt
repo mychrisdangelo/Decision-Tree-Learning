@@ -1,0 +1,4 @@
+(green $ * No)
+(green $$ ** Maybe)
+(red $ * Yes)
+(blue $$ ** Yes)
